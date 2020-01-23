@@ -1,7 +1,7 @@
 # UrbanData-Brasil/CEM
 
 ### Objetivos
-Este projeto visa desenvolver em um primeiro momento um sistema para destão de registros bibliométricos.
+Este projeto visa desenvolver um sistema para destão de registros bibliométricos.
 
 ### Sobre o Projeto
 
